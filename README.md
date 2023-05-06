@@ -4,7 +4,9 @@ Ver 0.0 2023/05/06
 
 <br>
 
-!! 不定期更新 !!
+<style color="red">
+!! 不定期更新 !!  
+</style>
 
 # Shimauma-Giken_ 目次；コンテンツリスト
 

@@ -1,13 +1,9 @@
-## # History
+﻿<!-- 罫線を表示 -->
+<style type="text/css"> 
+    table { border-collapse: collapse; } 
+    table, th, td { border: 1px solid black; } 
+</style>
 
-Ver 0.0 2023/05/06
-
-# Shimauma-Giken_ 目次；コンテンツリスト
-
-リポジトリ検索用に作成。
-
-
-<br><br>
 
 Product|Solution |Repository|Remarks|
 |-|-|-|-|
@@ -38,5 +34,3 @@ Printer|ZebraDesginer|Zebra-Printer_Supported-Japanese-fonts-on-ZebraDesigner3-|
 Printer|ZebraDesginer|Zebra-Printer_Zebra-Designers-3-Pro_Sample-Database-Files|Zebra Designer 3 Pro 向けサンプルExcel、データベースファイル
 RFID|SDK|Zebra-FX_C-Sharp_Basic-Codes-for-Begineers|Zebra FX7500/9600 向けサンプルコード（C#）
 RFID|開発|Zebra-RFD_123RFID-Guide-to-Collect-Logs-from-RFD-Readers|RFDリーダからログを取得する方法
-
-
